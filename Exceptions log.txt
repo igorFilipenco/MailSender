@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2016-03-23T13:04:56</date>
+  <millis>1458731096194</millis>
+  <sequence>0</sequence>
+  <logger>Exceptions</logger>
+  <level>FINE</level>
+  <class>com.mailer.MailerApplication$1</class>
+  <method>handleDelivery</method>
+  <thread>14</thread>
+  <message>Exception logged</message>
+</record>
+<record>
+  <date>2016-03-23T13:05:56</date>
+  <millis>1458731156023</millis>
+  <sequence>1</sequence>
+  <logger>Exceptions</logger>
+  <level>FINE</level>
+  <class>com.mailer.MailerApplication$1</class>
+  <method>handleDelivery</method>
+  <thread>15</thread>
+  <message>Exception logged</message>
+</record>
+<record>
+  <date>2016-03-23T13:05:56</date>
+  <millis>1458731156023</millis>
+  <sequence>1</sequence>
+  <logger>Exceptions</logger>
+  <level>FINE</level>
+  <class>com.mailer.MailerApplication$1</class>
+  <method>handleDelivery</method>
+  <thread>15</thread>
+  <message>Exception logged</message>
+</record>
+<record>
+  <date>2016-03-23T13:06:16</date>
+  <millis>1458731176658</millis>
+  <sequence>2</sequence>
+  <logger>Exceptions</logger>
+  <level>FINE</level>
+  <class>com.mailer.MailerApplication$1</class>
+  <method>handleDelivery</method>
+  <thread>16</thread>
+  <message>Exception logged</message>
+</record>
+<record>
+  <date>2016-03-23T13:06:16</date>
+  <millis>1458731176658</millis>
+  <sequence>2</sequence>
+  <logger>Exceptions</logger>
+  <level>FINE</level>
+  <class>com.mailer.MailerApplication$1</class>
+  <method>handleDelivery</method>
+  <thread>16</thread>
+  <message>Exception logged</message>
+</record>
+<record>
+  <date>2016-03-23T13:06:16</date>
+  <millis>1458731176658</millis>
+  <sequence>2</sequence>
+  <logger>Exceptions</logger>
+  <level>FINE</level>
+  <class>com.mailer.MailerApplication$1</class>
+  <method>handleDelivery</method>
+  <thread>16</thread>
+  <message>Exception logged</message>
+</record>
+<record>
+  <date>2016-03-23T13:06:17</date>
+  <millis>1458731177167</millis>
+  <sequence>3</sequence>
+  <logger>Exceptions</logger>
+  <level>FINE</level>
+  <class>com.mailer.MailerApplication$1</class>
+  <method>handleDelivery</method>
+  <thread>12</thread>
+  <message>Exception logged</message>
+</record>
+<record>
+  <date>2016-03-23T13:06:17</date>
+  <millis>1458731177167</millis>
+  <sequence>3</sequence>
+  <logger>Exceptions</logger>
+  <level>FINE</level>
+  <class>com.mailer.MailerApplication$1</class>
+  <method>handleDelivery</method>
+  <thread>12</thread>
+  <message>Exception logged</message>
+</record>
+<record>
+  <date>2016-03-23T13:06:17</date>
+  <millis>1458731177167</millis>
+  <sequence>3</sequence>
+  <logger>Exceptions</logger>
+  <level>FINE</level>
+  <class>com.mailer.MailerApplication$1</class>
+  <method>handleDelivery</method>
+  <thread>12</thread>
+  <message>Exception logged</message>
+</record>
+<record>
+  <date>2016-03-23T13:06:17</date>
+  <millis>1458731177167</millis>
+  <sequence>3</sequence>
+  <logger>Exceptions</logger>
+  <level>FINE</level>
+  <class>com.mailer.MailerApplication$1</class>
+  <method>handleDelivery</method>
+  <thread>12</thread>
+  <message>Exception logged</message>
+</record>
+<record>
+  <date>2016-03-23T13:07:15</date>
+  <millis>1458731235760</millis>
+  <sequence>4</sequence>
+  <logger>Exceptions</logger>
+  <level>FINE</level>
+  <class>com.mailer.MailerApplication$1</class>
+  <method>handleDelivery</method>
+  <thread>14</thread>
+  <message>Exception logged</message>
+</record>
+<record>
+  <date>2016-03-23T13:07:15</date>
+  <millis>1458731235760</millis>
+  <sequence>4</sequence>
+  <logger>Exceptions</logger>
+  <level>FINE</level>
+  <class>com.mailer.MailerApplication$1</class>
+  <method>handleDelivery</method>
+  <thread>14</thread>
+  <message>Exception logged</message>
+</record>
+<record>
+  <date>2016-03-23T13:07:15</date>
+  <millis>1458731235760</millis>
+  <sequence>4</sequence>
+  <logger>Exceptions</logger>
+  <level>FINE</level>
+  <class>com.mailer.MailerApplication$1</class>
+  <method>handleDelivery</method>
+  <thread>14</thread>
+  <message>Exception logged</message>
+</record>
+<record>
+  <date>2016-03-23T13:07:15</date>
+  <millis>1458731235760</millis>
+  <sequence>4</sequence>
+  <logger>Exceptions</logger>
+  <level>FINE</level>
+  <class>com.mailer.MailerApplication$1</class>
+  <method>handleDelivery</method>
+  <thread>14</thread>
+  <message>Exception logged</message>
+</record>
+<record>
+  <date>2016-03-23T13:07:15</date>
+  <millis>1458731235760</millis>
+  <sequence>4</sequence>
+  <logger>Exceptions</logger>
+  <level>FINE</level>
+  <class>com.mailer.MailerApplication$1</class>
+  <method>handleDelivery</method>
+  <thread>14</thread>
+  <message>Exception logged</message>
+</record>
+<record>
+  <date>2016-03-23T13:07:51</date>
+  <millis>1458731271173</millis>
+  <sequence>5</sequence>
+  <logger>Exceptions</logger>
+  <level>FINE</level>
+  <class>com.mailer.MailerApplication$1</class>
+  <method>handleDelivery</method>
+  <thread>15</thread>
+  <message>Exception logged</message>
+</record>
+<record>
+  <date>2016-03-23T13:07:51</date>
+  <millis>1458731271173</millis>
+  <sequence>5</sequence>
+  <logger>Exceptions</logger>
+  <level>FINE</level>
+  <class>com.mailer.MailerApplication$1</class>
+  <method>handleDelivery</method>
+  <thread>15</thread>
+  <message>Exception logged</message>
+</record>
+<record>
+  <date>2016-03-23T13:07:51</date>
+  <millis>1458731271173</millis>
+  <sequence>5</sequence>
+  <logger>Exceptions</logger>
+  <level>FINE</level>
+  <class>com.mailer.MailerApplication$1</class>
+  <method>handleDelivery</method>
+  <thread>15</thread>
+  <message>Exception logged</message>
+</record>
+<record>
+  <date>2016-03-23T13:07:51</date>
+  <millis>1458731271173</millis>
+  <sequence>5</sequence>
+  <logger>Exceptions</logger>
+  <level>FINE</level>
+  <class>com.mailer.MailerApplication$1</class>
+  <method>handleDelivery</method>
+  <thread>15</thread>
+  <message>Exception logged</message>
+</record>
+<record>
+  <date>2016-03-23T13:07:51</date>
+  <millis>1458731271173</millis>
+  <sequence>5</sequence>
+  <logger>Exceptions</logger>
+  <level>FINE</level>
+  <class>com.mailer.MailerApplication$1</class>
+  <method>handleDelivery</method>
+  <thread>15</thread>
+  <message>Exception logged</message>
+</record>
+<record>
+  <date>2016-03-23T13:07:51</date>
+  <millis>1458731271173</millis>
+  <sequence>5</sequence>
+  <logger>Exceptions</logger>
+  <level>FINE</level>
+  <class>com.mailer.MailerApplication$1</class>
+  <method>handleDelivery</method>
+  <thread>15</thread>
+  <message>Exception logged</message>
+</record>
+</log>
